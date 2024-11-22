@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "729215777178",
+    "project_id": "fir-firebase-setup-f815f",
+    "storage_bucket": "fir-firebase-setup-f815f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729215777178:android:a1a38c1783bdbb7d096223",
+        "android_client_info": {
+          "package_name": "com.example.time_log"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwgwwe40R_pzo4WB9PGv7F1OpsHZ8Rmj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729215777178:android:59e508884a320096096223",
+        "android_client_info": {
+          "package_name": "com.example.time_logs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwgwwe40R_pzo4WB9PGv7F1OpsHZ8Rmj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729215777178:android:79878646b4838df7096223",
+        "android_client_info": {
+          "package_name": "com.example.timelog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwgwwe40R_pzo4WB9PGv7F1OpsHZ8Rmj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
